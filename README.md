@@ -1,5 +1,7 @@
 # Riju
 
+Background story: https://intuitiveexplanations.com/tech/replit/
+
 Riju is a very fast online playground for every programming language.
 In less than a second, you can start playing with a Python interpreter
 or compiling [INTERCAL](https://en.wikipedia.org/wiki/INTERCAL) code.
